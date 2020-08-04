@@ -55,6 +55,7 @@ create secret
 
 
 create cluster
+
     kops create cluster \
     --node-count=2 \
     --node-size=t2.micro \
