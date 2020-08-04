@@ -80,4 +80,5 @@ get secrets
     https://<kubernetes-master-hostname>/ui
 
 Delete cluster
+
     kops delete cluster --name ${KOPS_CLUSTER_NAME} --yes
