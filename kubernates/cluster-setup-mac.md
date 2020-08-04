@@ -3,6 +3,7 @@
 ### pre-req setup
 
 Installing awscli
+
         brew install awscli
 
 generate private and public key if does not exist
