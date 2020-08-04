@@ -1,8 +1,8 @@
 # configure local machine
 
 ## configure aws secrets
-export AWS_ACCESS_KEY=<>
-export AWS_SECRET_KEY=<>
+    export AWS_ACCESS_KEY=<>
+    export AWS_SECRET_KEY=<>
 
 ## configure cluster name and bucket name
 bucket_name=sarojim-2020
