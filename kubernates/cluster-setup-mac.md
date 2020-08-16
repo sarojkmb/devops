@@ -24,7 +24,7 @@ configure cluster name and bucket name
 
     bucket_name=sarojim-2020
     export KOPS_CLUSTER_NAME=imesh.k8s.local
-    export KOPS_STATE_STORE=s3://sarojim-2020
+    export KOPS_STATE_STORE=s3://${bucket_name}
 
 installing kops
 
